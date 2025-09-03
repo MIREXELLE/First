@@ -1,4 +1,4 @@
-package Chapter_tres;
+package Study_Materials.Chapter_3;
 
 public class StringLesson {
     public static void main(String[] args) {
